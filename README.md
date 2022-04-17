@@ -2,7 +2,7 @@
 
 
 **Instructions**
-***1*** Download Linux Mint >> shorturl.at/cfoDP
+***1*** Download Linux Mint >> *shorturl.at/cfoDP*
 
 ***2*** Create Bootable USB Using Rufus ***(Download In Zip)***
 
